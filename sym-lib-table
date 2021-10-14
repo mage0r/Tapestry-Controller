@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name TinyPico)(type Legacy)(uri E:/Dropbox/GitHub/Tapestry-Controller/libs/tinypico.lib)(options "")(descr ""))
+  (lib (name MKR)(type Legacy)(uri ${KIPRJMOD}/libs/MKR.lib)(options "")(descr ""))
+  (lib (name logos)(type Legacy)(uri ${KIPRJMOD}/libs/logos.lib)(options "")(descr ""))
+  (lib (name daygreen-d510)(type Legacy)(uri ${KIPRJMOD}/libs/daygreen-d510.lib)(options "")(descr ""))
+  (lib (name mkr)(type Legacy)(uri E:/Dropbox/GitHub/Tapestry-Controller/libs/MKR.lib)(options "")(descr ""))
+  (lib (name spi_tft)(type Legacy)(uri ${KIPRJMOD}/libs/spi_tft.lib)(options "")(descr ""))
+)

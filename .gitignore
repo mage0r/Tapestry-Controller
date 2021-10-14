@@ -20,6 +20,10 @@ _autosave-*
 *.xml
 *.csv
 
+gerber*
+dxf*
+*.zip
+
 # =========================
 # Operating System Files
 # =========================
