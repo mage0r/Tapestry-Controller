@@ -553,17 +553,6 @@ F 3 "" H 10300 5950 50  0001 C CNN
 	1    10300 5950
 	1    0    0    -1  
 $EndComp
-$Comp
-L logos:OSHW_Logo U3
-U 1 1 5FB1B39D
-P 10150 6200
-F 0 "U3" H 10588 6239 50  0000 L CNN
-F 1 "OSHW_Logo" H 10588 6148 50  0000 L CNN
-F 2 "libs:OSHW_Logo_10mm" H 10150 6050 50  0001 C CNN
-F 3 "" H 10150 6050 50  0001 C CNN
-	1    10150 6200
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	5550 2700 5850 2700
 Wire Wire Line
